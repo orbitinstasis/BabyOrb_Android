@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BabyOrb by Orbitroniks 2016</string>
+    <string name="titleName">BabyOrb by Orbitronics</string>
+    <string name="radioGroupTitle">Mode Select:</string>
+    <string name="static_control">Static Control</string>
+    <string name="lava_lamp">Lava Lamp</string>
+    <string name="sleep_mode">Sleep Mode</string>
+    <string name="sleep_mode_w_listener">Sleep Mode W/ Listener</string>
+    <string name="bluetoothConnectBtn">Connect to BabyOrb</string>
+    <string-array name="sleep_timeout">
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+</resources>
